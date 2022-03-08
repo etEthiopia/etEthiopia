@@ -6,9 +6,9 @@
 ### Connect with me:
 
 [<img align="left" alt="porfolio website" width="22px" src="https://freesvg.org/img/provider_internetsvg.png" />][website]
-[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="facebook" width="22px" src="https://vinuni.edu.vn/wp-content/uploads/2021/10/2048px-Facebook_logo_36x36.svg.png" />][facebook]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://glazerpromos.com/wp-content/uploads/2017/07/linkedin-logo.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" />][telegram]
 
 <br />
 
