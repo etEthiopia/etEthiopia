@@ -1,5 +1,3 @@
-![image](https://github.com/etEthiopia/etEthiopia/assets/39325611/ebaff5c5-0bf4-4106-a45d-99baf71bc3db)[![Website](https://img.shields.io/website?label=Professional-Portfolio&style=for-the-badge&url=https%3A%2F%2Fetethiopia.github.io/dagmawinegussuportfolio)](https://etethiopia.github.io/dagmawinegussuportfolio/)
-
 ## Full Stack Developer
 ## Mobile Developer
 
@@ -24,7 +22,7 @@
 
 
 
-[website]: https://etethiopia.github.io/dagmawinegussuportfolio/
+[website]: https://dagi.surge.sh
 [facebook]: https://www.facebook.com/dagmawi.negussu/
 [linkedin]: https://www.linkedin.com/in/dagmawi-negussu-96a928187/
 [telegram]: https://t.me/DagiKing
