@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=Professional-Portfolio&style=for-the-badge&url=https%3A%2F%2Fetethiopia.github.io/dagmawinegussuportfolio)](https://etethiopia.github.io/dagmawinegussuportfolio/)
+![image](https://github.com/etEthiopia/etEthiopia/assets/39325611/ebaff5c5-0bf4-4106-a45d-99baf71bc3db)[![Website](https://img.shields.io/website?label=Professional-Portfolio&style=for-the-badge&url=https%3A%2F%2Fetethiopia.github.io/dagmawinegussuportfolio)](https://etethiopia.github.io/dagmawinegussuportfolio/)
 
 ## Full Stack Developer
 ## Mobile Developer
@@ -7,7 +7,7 @@
 
 [<img align="left" alt="porfolio website" width="22px" src="https://icon-library.com/images/web-icon-svg/web-icon-svg-5.jpg" />][website]
 [<img align="left" alt="facebook" width="22px" src="https://vinuni.edu.vn/wp-content/uploads/2021/10/2048px-Facebook_logo_36x36.svg.png" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://glazerpromos.com/wp-content/uploads/2017/07/linkedin-logo.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" />][telegram]
 
 <br />
